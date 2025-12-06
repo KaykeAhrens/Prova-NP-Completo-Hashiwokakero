@@ -280,8 +280,8 @@ print("Todos os testes passaram!")
 
 Desenvolvido por estudantes da disciplina de **Teoria da Computação**:
 
-- **Agatha Santos** -
-- **Bruna Kinjo** -
+- **Agatha Santos** 
+- **Bruna Kinjo** 
 - **Kayke Ahrens**
 - **Matheus Marini**
 
