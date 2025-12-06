@@ -156,10 +156,10 @@ Os arquivos devem seguir este formato (cada número representa uma ilha):
 
 ### Exemplos Incluídos
 
-| Arquivo             | Dificuldade | Tamanho |
-| ------------------- | ----------- | ------- |
-| `puzzle.txt`        | Fácil       | 5×5     |
-| `puzzle_medio1.txt` | Difícil     | 5×5     |
+| Arquivo                            | Dificuldade | Tamanho |
+| ---------------------------------- | ----------- | ------- |
+| `puzzle_5x5_facil_valido.txt`      | Fácil       | 5×5     |
+| `puzzle_6x6_medio_sem_solucao.txt` | Difícil     | 5×5     |
 
 ---
 
